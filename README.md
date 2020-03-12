@@ -30,20 +30,21 @@ Some methods that I have used to make predictions
 - 3 dataset (CSV)
 
 # File name description
-XX=01 One feature predict for one label
-XX=02 Many feature predict for one label
-XX=03 Many feature predict for many label
-M11   Monthly dataset, One feature, One label
-MM1   Monthly dataset, Many feature, One label
-MMM   Monthly dataset, Many feature, Manay Label
-W11   Weekly dataset, One feature, One label
-WM1   Weekly dataset, Many feature, One label
-WMM   Weekly dataset, Many feature, Manay Label
-D11   Dailly dataset, One feature, One label
-DM1   Daily dataset, Many feature, One label
-DMM   Daily dataset, Many feature, Manay Label
-.h5  ---> Saved model
-.png ---> Layer visualization
+- XX=01 One feature predict for one label
+- XX=02 Many feature predict for one label
+- XX=03 Many feature predict for many label
+
+- M11   Monthly dataset, One feature, One label
+- MM1   Monthly dataset, Many feature, One label
+- MMM   Monthly dataset, Many feature, Manay Label
+- W11   Weekly dataset, One feature, One label
+- WM1   Weekly dataset, Many feature, One label
+- WMM   Weekly dataset, Many feature, Manay Label
+- D11   Dailly dataset, One feature, One label
+- DM1   Daily dataset, Many feature, One label
+- DMM   Daily dataset, Many feature, Manay Label
+- (.h5) Saved model
+- (.png) Layer visualization
 
 # Tools and Environment
 
