@@ -2,7 +2,7 @@
 This research or project is a part that I also use as a final project (dissertation). 
 There are two documents with modeling methods using RNN and LSTM.
 
-# Predictions of Tourist Visits Using the RNN and LSTM
+# Predictions of Tourist Visits at Taman Nasional Gunung Merbabu Using the RNN and LSTM
 Some methods that I have used to make predictions
 (Regression Problems)
 - Univariate Time Series Analysis
